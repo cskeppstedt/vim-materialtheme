@@ -32,7 +32,7 @@ let colors_name = "materialtheme"
 "green  300 81c784
 "blue   300 64b5f6
 
-hi Normal guibg=#263238 guifg=#eeeeec 
+hi Normal guibg=#263238 guifg=#eeeeec
 hi VertSplit guibg=#263238 guifg=#263238
 hi SignColumn guibg=#263238
 hi LineNr guibg=#263238 guifg=#37474f
@@ -67,7 +67,7 @@ hi Function gui=bold guifg=#9BCF8D
 "hi Statement guifg=#729FCF
 hi Statement guifg=#ff8a65
 hi Identifier guifg=#AD7FA8
-hi PreProc guifg=#e9ba6e 
+hi PreProc guifg=#e9ba6e
 hi Special term=underline guifg=#64b5f6
 hi Number guifg=#ffd54f gui=bold
 
@@ -91,3 +91,8 @@ hi SyntasticWarningSign guifg=#ffd54f gui=bold
 
 hi Directory guifg=#607d8b
 hi ExtraWhitespace guibg=#e57373
+
+hi link NERDTreeFile Normal
+hi link NERDTreeOpenable Directory
+hi link NERDTreeClosable Directory
+hi link NERDTreeDirSlash Directory
