@@ -88,3 +88,6 @@ hi SyntasticError guifg=#e57373
 hi SyntasticWarning guifg=#ffd54f gui=NONE
 hi SyntasticErrorSign guifg=#e57373 gui=bold
 hi SyntasticWarningSign guifg=#ffd54f gui=bold
+
+hi Directory guifg=#607d8b
+hi ExtraWhitespace guibg=#e57373
