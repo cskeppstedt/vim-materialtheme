@@ -92,6 +92,7 @@ hi SyntasticWarningSign guifg=#ffd54f gui=bold
 hi Directory guifg=#607d8b
 hi ExtraWhitespace guibg=#e57373
 
+hi Visual guibg=#37474F gui=none
 hi link NERDTreeFile Normal
 hi link NERDTreeOpenable Directory
 hi link NERDTreeClosable Directory
