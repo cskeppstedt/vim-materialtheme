@@ -39,6 +39,7 @@ hi LineNr guibg=#263238 guifg=#37474f
 hi NonText guibg=#263238 guifg=#37474f
 hi Cursor gui=none guibg=#607d8b guifg=#263238
 hi CursorLine guibg=#2b3940
+hi CursorLineNr guibg=#263238 guifg=#ffd54f
 hi CursorColumn guibg=#2b3940
 hi ColorColumn guibg=#37474f
 hi SpecialKey guibg=#263238 guifg=#37474f
