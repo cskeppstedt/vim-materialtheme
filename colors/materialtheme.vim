@@ -72,7 +72,8 @@ hi PreProc guifg=#e9ba6e
 hi Special term=underline guifg=#64b5f6
 hi Number guifg=#ffd54f gui=bold
 
-hi Search guifg=#81c784 guibg=#263238 gui=bold gui=underline
+" hi Search guifg=#81c784 guibg=#263238 gui=bold,underline
+hi Search guifg=#81c784 guibg=#37474F gui=bold,underline
 hi StatusLine guibg=#546e7a guifg=#263238
 hi StatusLineNC guibg=#263238 guifg=#263238
 hi TabLineFill guibg=#263238
