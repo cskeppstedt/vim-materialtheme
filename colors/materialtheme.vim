@@ -76,8 +76,9 @@ hi StatusLine guibg=#546e7a guifg=#263238
 hi StatusLineNC guibg=#263238 guifg=#263238
 hi TabLineFill guibg=#263238
 hi Delimiter guifg=#607d8b
-hi MatchParen guibg=#37473f guifg=#ffb74d gui=bold
-hi markdownHeadingDelimiter guifg=#ffb74d
+" hi MatchParen guibg=#37473f guifg=#ffb74d gui=bold
+hi MatchParen guibg=#607d8b
+hi MarkdownHeadingDelimiter guifg=#ffb74d
 hi Title gui=bold guifg=#ffb74d
 hi htmlH1 gui=bold guifg=#ffb74d
 hi htmlH2 gui=bold guifg=#ffb74d
